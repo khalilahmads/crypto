@@ -1251,7 +1251,6 @@ ul {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
-  overflow-x: scroll;
 }
 
 table tr th {
@@ -2183,6 +2182,7 @@ social-icon ul li {
 
   #table-section {
     padding: 100px 0 100px;
+    overflow-x: scroll;
   }
 
   .strtgy-road {
@@ -2387,6 +2387,7 @@ social-icon ul li {
 
   #table-section {
     padding: 0;
+    overflow-x: scroll;
   }
 
   .strtgy-content-text {
